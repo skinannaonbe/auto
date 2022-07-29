@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skinannaonbe/ARONTAI/main/ARONTAI", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Curelzx/.../main/AutoBuy", true))()
